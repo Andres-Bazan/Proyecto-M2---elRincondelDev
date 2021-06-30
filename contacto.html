@@ -14,6 +14,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="shortcut icon" href="/img/icon.png">
     <link rel="stylesheet" href="./style.css">
@@ -24,18 +25,17 @@
   </head>
   <body>
     <header>
-       <nav class="navbar navbar-expand-lg" id="navbar-color">
-          <a class="navbar-brand text-white" href="./login.html"><i class="fa fa-user-circle" aria-hidden="true"></i></a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <a class="navbar-brand text-white" href="./buscar.html"><i class="fa fa-search" aria-hidden="true"></i></a>
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-        
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <nav class="navbar navbar-expand-lg" id="navbar-color">
+          <div class="collapse navbar-collapse animate__animated animate__fadeIn" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
+              <a class="navbar-brand text-white" href="./login.html"><i class="fa fa-user-circle" aria-hidden="true"></i></a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <a class="navbar-brand text-white" href="./buscar.html"><i class="fa fa-search" aria-hidden="true"></i></a>
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
               <li class="nav-item active">
                 <a class="nav-link text-white" href="./home.html">Home <span class="sr-only">(current)</span></a>
               </li>
@@ -62,9 +62,14 @@
               </li>
             </ul>
           </div>
-          <h3 class="logo-nav">elRinconDelDev</h3>
-        </nav> 
-        
+          <a class="navbar-brand" href="./home.html"><img src="./img/icon.png" class="img-fluid" width="50px"  alt=""></a>
+            <!-- <button
+              class="btn btn-outline-success my-2 my-sm-0"
+              onclick="deslogueo()"
+              >
+                Logout
+           </button> -->
+        </nav>
   </header>
 
   <section>
@@ -96,7 +101,7 @@
           </form>
           <div class="container">
             <div class="row mt-4">
-              <textarea class="form-control" rows="3" placeholder=" 📝 Escribenos!"></textarea>
+              <input class="form-control" rows="3" placeholder=" 📝 Escribenos!"></input>
             </div>
              <!-- Button trigger modal -->
                <button type="button" class="btn btn-primary mt-4" data-toggle="modal" data-target="#exampleModal">

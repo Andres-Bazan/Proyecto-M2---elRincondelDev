@@ -18,8 +18,6 @@ body {
   background-color: var(--color2);
 }
 
-
-
 /* ------------ INICIO NAV BAR ----------- */
 
 .logo-nav {
@@ -33,70 +31,51 @@ body {
   padding-right: 10px;
 }
 
-#navbarDropdown:hover {
-  color: var(--color2);
-}
-
 #navbar-color {
   background-color: var(--color1);
 }
 
-
 /* ------------ FIN NAV BAR ----------- */
 
-/*------------- CAROUSEl -------------*/
-
-.carousel-item {
-  width: 100%;
-  height: 50%;
+/* ------------- SECCION BUSCAR ---------- */
+#boton-buscar{
+  margin-top: 20px;
 }
 
-/*----------- Contacto ----------------*/
+.form-control-borderless {
+  border: none;
+}
+
+.form-control-borderless:hover,
+.form-control-borderless:active,
+.form-control-borderless:focus {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.card-img{
+    width: 80px;
+    height: 80px;
+}
 
 
+/* ------------- FIN SECCION BUSCAR ---------- */
+
+/*----------- INICIO CONTACTO ----------------*/
+
+/*----------- FIN CONTACTO ----------------*/
 
 /* ---------  INICIO FOOTER ------------- */
-footer {
+ footer {
   background-color: rgb(122, 132, 141);
-}
+} 
 
-#logo-footer{
+#logo-footer {
   width: 252px;
   height: 77;
-}
+} 
 
 /**-------- FIN FOOTER ...................../
-/* -----  INICIO SECION MAS VENDIDOS-------- */
 
-.horizontal_slider {
-  display: block;
-  width: 100%;
-  overflow-x: scroll;
-  margin-top: 20px;
-  padding: 20px;
-  box-sizing: border-box;
-}
-.horizontal_slider::-webkit-scrollbar {
-  display: none;
-}
-.slider_container {
-  display: block;
-  white-space: nowrap;
-}
-.item {
-  display: inline-block;
-  margin-right: 10px;
-}
-.item_valorados {
-  display: inline-block;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-}
-
-.item img {
-  width: 150px;
-  object-fit: cover;
-}
-
-/* ----- FIN SECION MAS VENDIDOS-------- */
+/* -------------- 404 ------------------- */
