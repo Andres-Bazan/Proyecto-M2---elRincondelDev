@@ -14,9 +14,25 @@
   box-sizing: border-box;
   border: none;
 }
+
 body {
   background-color: var(--color2);
 }
+
+/*------------ INICIO CAROUSEL ---------- */
+
+.carousel-inner img{
+
+  max-height: 70vh;
+  object-fit: cover;
+
+  
+  }
+
+
+/*------------ FIN CAROUSEL ---------- */
+
+
 
 /*  -------- BBBARRA BUSCADOR -------------*/
 .form-control-borderless {
