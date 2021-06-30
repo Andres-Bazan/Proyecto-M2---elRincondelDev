@@ -1,0 +1,82 @@
+:root {
+  --color1: #00bfa5;
+  --color2: #2c2e35;
+  --color3: #8f9091;
+  --color4: #f4f4f4;
+  font-family: "Montserrat", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  border: none;
+}
+body {
+  background-color: var(--color2);
+}
+
+/*  -------- BBBARRA BUSCADOR -------------*/
+.form-control-borderless {
+  border: none;
+}
+
+.form-control-borderless:hover,
+.form-control-borderless:active,
+.form-control-borderless:focus {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.card-img{
+    width: 80px;
+    height: 80px;
+}
+
+/* #tarjeta-libro {
+  width: 90px;
+  height: 90px;
+} */
+
+/* ------------ NAV BAR ----------- */
+
+.logo-nav {
+  padding-top: 5px;
+  padding-right: 150px;
+  color: var(--color4);
+}
+
+.navbar-brand {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#navbarDropdown:hover {
+  color: var(--color2);
+}
+
+#navbar-color {
+  background-color: var(--color1);
+}
+
+/*------------- CAROUSEl -------------*/
+
+.carousel-item {
+  width: 100%;
+  height: 50%;
+}
+
+/*----------- Contacto ----------------*/
+
+/* --------- FOOTER ------------- */
+footer {
+  background-color: rgb(122, 132, 141);
+}
+
+#logo-footer {
+  width: 252.281px;
+  height: 77.688px;
+}
