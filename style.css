@@ -18,30 +18,9 @@ body {
   background-color: var(--color2);
 }
 
-/*  -------- BBBARRA BUSCADOR -------------*/
-.form-control-borderless {
-  border: none;
-}
 
-.form-control-borderless:hover,
-.form-control-borderless:active,
-.form-control-borderless:focus {
-  border: none;
-  outline: none;
-  box-shadow: none;
-}
 
-.card-img{
-    width: 80px;
-    height: 80px;
-}
-
-/* #tarjeta-libro {
-  width: 90px;
-  height: 90px;
-} */
-
-/* ------------ NAV BAR ----------- */
+/* ------------ INICIO NAV BAR ----------- */
 
 .logo-nav {
   padding-top: 5px;
@@ -62,6 +41,9 @@ body {
   background-color: var(--color1);
 }
 
+
+/* ------------ FIN NAV BAR ----------- */
+
 /*------------- CAROUSEl -------------*/
 
 .carousel-item {
@@ -71,12 +53,50 @@ body {
 
 /*----------- Contacto ----------------*/
 
-/* --------- FOOTER ------------- */
+
+
+/* ---------  INICIO FOOTER ------------- */
 footer {
   background-color: rgb(122, 132, 141);
 }
 
-#logo-footer {
-  width: 252.281px;
-  height: 77.688px;
+#logo-footer{
+  width: 252px;
+  height: 77;
 }
+
+/**-------- FIN FOOTER ...................../
+/* -----  INICIO SECION MAS VENDIDOS-------- */
+
+.horizontal_slider {
+  display: block;
+  width: 100%;
+  overflow-x: scroll;
+  margin-top: 20px;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.horizontal_slider::-webkit-scrollbar {
+  display: none;
+}
+.slider_container {
+  display: block;
+  white-space: nowrap;
+}
+.item {
+  display: inline-block;
+  margin-right: 10px;
+}
+.item_valorados {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.item img {
+  width: 150px;
+  object-fit: cover;
+}
+
+/* ----- FIN SECION MAS VENDIDOS-------- */
