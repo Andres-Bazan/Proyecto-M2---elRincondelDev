@@ -13,6 +13,7 @@
   list-style: none;
   box-sizing: border-box;
   border: none;
+  
 }
 body {
   background-color: var(--color2);
@@ -20,26 +21,27 @@ body {
 
 /* ------------ INICIO NAV BAR ----------- */
 
-.logo-nav {
-  padding-top: 5px;
-  padding-right: 150px;
-  color: var(--color4);
-}
-
 .navbar-brand {
   padding-left: 10px;
   padding-right: 10px;
 }
 
+.img-fluid{
+  width: 200px;
+  height: 300px;
+}
+
 #navbar-color {
+  font-size: 19px;
   background-color: var(--color1);
 }
+
 
 /* ------------ FIN NAV BAR ----------- */
 
 /* ------------- SECCION BUSCAR ---------- */
 #boton-buscar{
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .form-control-borderless {
@@ -59,22 +61,89 @@ body {
     height: 80px;
 }
 
+.img-fluid {
+  width: 70px;
+  height: 60px;
+}
+
+.img-login{
+  width: 300px;
+  margin-bottom: 5px;
+}
+
 
 /* ------------- FIN SECCION BUSCAR ---------- */
 
 /*----------- INICIO CONTACTO ----------------*/
 
+
 /*----------- FIN CONTACTO ----------------*/
+
+/* ----------- INICIO SOBRE NOSOTROS --------- */
+
+.section{
+  width: 100%;
+  min-height: 100vh;
+  background-color: white
+
+}
+
+.container{
+  width: 80%;
+  display: block;
+  margin: auto;
+  padding-top: 100px;
+}
+
+.content-section{
+  float: left;
+  width:55px;
+
+}
+
+.imagen-section{
+  float: right;
+  width: 40px;
+
+}
+
+.imagen-section img{
+  width: 100%;
+  height: auto;
+}
+
+.content-section .tittle{
+  text-transform: uppercase;
+  font-size: 28px;
+}
+
+.content-section .content h3 {
+  margin-top: 20px;
+  color:#5d5d5d
+}
+
+/* ----------- INICIO SOBRE NOSOTROS --------- */
+
+
+/* ---------- INICIO BILBIO ---------------- */
+
+  
+
+
+
+/* ---------- FIN INICIO BILBIO ---------------- */
 
 /* ---------  INICIO FOOTER ------------- */
  footer {
-  background-color: rgb(122, 132, 141);
+  background-color:var(--color3)
 } 
 
 #logo-footer {
   width: 252px;
-  height: 77;
+  height: 77px;
 } 
+
+
 
 /**-------- FIN FOOTER ...................../
 
