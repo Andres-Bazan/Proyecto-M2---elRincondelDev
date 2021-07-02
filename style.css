@@ -71,6 +71,16 @@ body {
   margin-bottom: 5px;
 }
 
+.img-biblio{
+  width: 210px;
+  height: 210px;
+}
+
+.card-biblio {
+  width: 210px;
+  height: 210px;
+}
+
 
 /* ------------- FIN SECCION BUSCAR ---------- */
 
