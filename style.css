@@ -35,6 +35,10 @@ body {
   font-size: 19px;
   background-color: var(--color1);
 }
+/* 
+.navbar-light .navbar-toggler {
+  background-color: white;
+} */
 
 
 /* ------------ FIN NAV BAR ----------- */
@@ -56,8 +60,24 @@ body {
   box-shadow: none;
 }
 
-.card-img{
+.card-img-1{
     width: 80px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.card-img-2{
+  width: 70px;
+  height: 65px;
+}
+
+.card-img-3{
+  width: 80px;
+    height: 80px;
+}
+
+.card-img-4{
+  width: 80px;
     height: 80px;
 }
 
@@ -89,48 +109,124 @@ body {
 
 /*----------- FIN CONTACTO ----------------*/
 
+/* -------------- caruseles INICIO ------------------- */
+.horizontal_slider{
+  display:block;
+  /* align-items: center; */
+  justify-content:center;
+  width:100%;
+  overflow-x: scroll;
+  padding-top: 1rem;
+  padding-bottom: 10rem;
+  box-sizing: border-box;
+  padding-left: auto;
+  padding-right: auto;
+}
+.horizontal_slider::-webkit-scrollbar{
+  display: none;
+}
+.slider_container{
+  display:block;
+  white-space:nowrap;
+}
+.item{
+  display: inline-block;
+  margin-right: 10px;
+}
+.item_valorados{
+  display: inline-block ;
+  justify-content:space-evenly;
+  width:150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.item img{
+  width:150px;
+  object-fit: cover;
+}
+body{
+  background-color:rgb(59, 59, 63)
+}
+/* -------------- caruseles FIN ------------------- */
+
+/* -------------- caruseles Publicidad INICIO------------------- */
+
+#carruselS{
+  visibility: hidden;
+  position: absolute;
+   top: -9999px;
+   left: -9999px;
+
+}
+@media screen and (max-width:650px){
+  #carruselS{
+  visibility: visible;
+  position:initial;
+  }
+  #carruselL{
+    visibility: hidden;
+    position: absolute;
+   top: -9999px;
+   left: -9999px;
+    }
+}
+/* -------------- caruseles Publicidad FIN------------------- */
+
+/* ------------- CARDS INICIO ---------- */
+
+#cards-style{
+  padding-top: 2rem;
+}
+.card-body{
+  padding-top: 0rem;
+}
+.card-footer{
+  background-color:rgb(255, 255, 255)
+}
+.info-libro{
+  display: flex;
+}
+#imagenTapa{
+  max-width: 10rem;
+  padding: 2rem;
+}
+#imagenTapa:hover{
+  filter:grayscale(50%);
+  transform: scale(1.1);
+}
+
+.info-libro2{
+  padding: 2rem;
+}
+#datos-Libro{
+  margin-bottom: 0;
+}
+@media screen and (max-width:550px){
+  .info-libro{
+    display: inline-block;}
+    .info-libro{
+    padding-top: 0rem;}
+    #imagenTapa{
+    padding-bottom: 0rem;}}
+  
+
+
+/* ------------- CARDSFINAL ---------- */
+
+footer {
+  background-color: rgb(122, 132, 141);
+} 
+
+#logo-footer {
+  width: 252px;
+  height: 77;
+} 
+
+/* ---------- FIN CARDS FINAL ---------------- */
+
 /* ----------- INICIO SOBRE NOSOTROS --------- */
 
-.section{
-  width: 100%;
-  min-height: 100vh;
-  background-color: white
-
-}
-
-.container{
-  width: 80%;
-  display: block;
-  margin: auto;
-  padding-top: 100px;
-}
-
-.content-section{
-  float: left;
-  width:55px;
-
-}
-
-.imagen-section{
-  float: right;
-  width: 40px;
-
-}
-
-.imagen-section img{
-  width: 100%;
-  height: auto;
-}
-
-.content-section .tittle{
-  text-transform: uppercase;
-  font-size: 28px;
-}
-
-.content-section .content h3 {
-  margin-top: 20px;
-  color:#5d5d5d
-}
 
 /* ----------- INICIO SOBRE NOSOTROS --------- */
 
@@ -158,3 +254,16 @@ body {
 /**-------- FIN FOOTER ...................../
 
 /* -------------- 404 ------------------- */
+#i404{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25vh;
+  margin-bottom: 15vh;
+  max-width: 20rem;
+}
+.volver{
+  color: var(--color1);
+  text-align: center;
+  text-decoration: none;
+}

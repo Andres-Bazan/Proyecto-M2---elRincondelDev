@@ -1,0 +1,5 @@
+Martin: se encarga de arreglar los modales de las sinopsis y algo mas
+
+Gerardo: hara el banco de imagenes 
+
+Yo: hare el js de la seccion buscar

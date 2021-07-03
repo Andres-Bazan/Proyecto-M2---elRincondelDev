@@ -115,6 +115,46 @@ function verLibro() {
 
  
     verLibro()
+  //----------------------------------------
+
+  //-------------- BUSCADOR -------------
+  
+  function buscarLibro() {
+    let texto = document.querySelector('#buscador-biblio');
+    catalogo = JSON.parse(localStorage.getItem('catalogo'))
+    catalogo = catalogo.filter(function (elemento) {
+      return elemento.titulo.indexOf(texto) > -1;
+    })
+    verLibro(catalogo)
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   
   
   
