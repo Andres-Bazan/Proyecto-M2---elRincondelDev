@@ -1,0 +1,16 @@
+Lenguaje: JavaScript
+
+Titulo: Fácil aprendizaje JS
+
+Descripción:
+
+Aprenderá cómo organizar la programación orientada a objetos y reutilizar su código con clase y método, dibujar formas, imágenes y patrones con JavaScript y crear juegos, animaciones y gráficos con Canvas, etc. Aprenderá técnicas útiles para lo esencial.
+este libro enseña las principales habilidades de JavaScript y una guía paso a paso para conocer la codificación. Al final del libro, puede crear su propia aplicación web y juegos.
+
+Fecha de publicacion: 10/11/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

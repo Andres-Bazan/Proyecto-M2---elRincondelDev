@@ -1,0 +1,16 @@
+Lenguaje: HTML5
+
+Titulo: QuickStart Guide
+
+Descripción:
+
+Los desarrolladores experimentados saben que el dominio de los fundamentos de HTML y CSS no solo es una habilidad esencial del diseño web, sino también la base sólida de un conjunto sólido de habilidades de codificación.
+En HTML & CSS QuickStart Guide, el autor, instructor y veterano de más de 10 años de la compañía tecnológica Fortune 500, David DuRocher, analiza los aspectos fundamentales de HTML5 y CSS3, segmentos manejables, prácticos y atractivos diseñados para desarrolladores principiantes.
+
+Fecha de publicacion: 19/09/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

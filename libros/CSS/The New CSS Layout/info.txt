@@ -1,0 +1,15 @@
+Lenguaje: CSS
+
+Titulo: The New CSS Layout
+
+Descripción:
+
+¡Esta es una excelente introducción a los nuevos sistemas CSS Flexbox y CSS Grid Layout! Se lo recomiendo encarecidamente a los diseñadores / desarrolladores web que quieran ponerse al día rápidamente con estas nuevas técnicas de diseño. El libro está escrito en un estilo claro y fácil de leer. La autora proporciona muchos ejemplos útiles a medida que presenta el material. ¡Gran libro!
+
+Fecha de publicacion: 02/04/17
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

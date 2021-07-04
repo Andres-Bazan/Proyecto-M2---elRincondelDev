@@ -1,0 +1,15 @@
+Lenguaje: JavaScript
+
+Titulo: JavaScript - jQuery 4th E
+
+Descripción:
+
+Ejemplos completos de codificación, ejercicios de práctica y el formato distintivo de "páginas emparejadas" de Murach (cada tema se presenta en una extensión de 2 páginas con texto e ilustraciones); todos se combinan para permitirle adaptar el ritmo y el contenido a su estilo de aprendizaje personal. Obtenga su copia hoy y compruébelo usted mismo.
+
+Fecha de publicacion: 28/04/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

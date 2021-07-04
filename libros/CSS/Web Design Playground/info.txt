@@ -1,0 +1,17 @@
+Lenguaje: CSS
+
+Titulo: Web Design Playground
+
+Descripción:
+
+Web Design Playground lo lleva paso a paso desde escribir su primera línea de HTML hasta crear páginas web interesantes y atractivas. En este libro basado en proyectos, utilizará un espacio de trabajo en línea personalizado, el área de juegos complementaria del libro, para diseñar sitios web, páginas de productos, galerías de fotos y más.
+La compra del libro impreso incluye un libro electrónico gratuito en formatos PDF, Kindle y ePub de Manning Publications.
+¿Cómo aprenden los mejores diseñadores a crear hermosas páginas web y experiencias de usuario intuitivas? ¡Grandes ejemplos, tutoría experta y mucha práctica! Escrito por el diseñador web y maestro Paul McFedries, este libro único da forma y agudiza sus habilidades en HTML, CSS y diseño de páginas web.
+
+Fecha de publicacion: 02/04/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

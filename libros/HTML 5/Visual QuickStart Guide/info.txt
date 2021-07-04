@@ -1,0 +1,16 @@
+Lenguaje: HTML5
+
+Titulo: Visual QuickStart Guide
+
+Descripción:
+
+Aprenda HTML y CSS con la guía Visual QuickStart Guide: ¡la forma más rápida y sencilla!
+Esta nueva edición cuenta con más de seis horas de videos instructivos que lo guían a través de HTML y CSS, para que pueda comenzar a trabajar con el desarrollo web en poco tiempo. Las imágenes del libro presentan pasos y explicaciones concisos, mientras que los videos mejoran y amplían la información del libro y brindan un método alternativo de aprendizaje. Los lectores deben registrar su libro en peachpit.com para obtener acceso a Web Edition, una versión en línea del libro que incluye el video complementario.
+
+Fecha de publicacion: 03/02/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

@@ -1,0 +1,16 @@
+Lenguaje: HTML5
+
+Titulo: HTML5 for Masterminds
+
+Descripción:
+
+HTML5 para Masterminds 3ª edición revisada, ahora con un curso completo sobre desarrollo web y diseño web adaptable. Aprenda a crear sitios web y aplicaciones para dispositivos móviles y de escritorio con HTML, CSS y JavaScript.
+HTML5 para Masterminds lleva al lector paso a paso para dominar los temas complejos necesarios para crear sitios web y aplicaciones web. Después de leer este libro, sabrá cómo estructurar sus documentos con HTML, cómo diseñarlos con CSS y cómo trabajar con las API de JavaScript más potentes.
+
+Fecha de publicacion: 22/05/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

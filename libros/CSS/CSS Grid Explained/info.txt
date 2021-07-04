@@ -1,0 +1,16 @@
+Lenguaje: CSS
+
+Titulo: CSS Grid Explained
+
+Descripción:
+
+Durante los últimos 20 años, los diseñadores web han utilizado CSS para diseñar páginas web. Sin embargo, a CSS siempre le han faltado algunas funciones clave. Los diseñadores tuvieron que confiar en soluciones alternativas, como mesas, flotadores y posicionamiento. CSS Grid es diferente y mejor.
+CSS Grid le permite crear un sistema de diseño basado en cuadrículas, utilizando columnas y filas. No tiene que utilizar ninguna solución alternativa. No es necesario que utilice distintos trucos para distintos navegadores. No es necesario instalar marcos adicionales.
+
+Fecha de publicacion: 15/09/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

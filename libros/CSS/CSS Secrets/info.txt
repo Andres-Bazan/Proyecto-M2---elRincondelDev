@@ -1,0 +1,17 @@
+Lenguaje: CSS
+
+Titulo: CSS Secrets
+
+Descripción:
+
+En esta guía práctica, la experta en CSS Lea Verou proporciona 47 técnicas y consejos indocumentados para ayudar a los desarrolladores de CSS de nivel intermedio a avanzado a idear soluciones elegantes para una amplia gama de problemas cotidianos de diseño web.
+En lugar de centrarse en el diseño, CSS Secrets le muestra cómo resolver problemas con el código. Aprenderá a aplicar el enfoque analítico de Lea a prácticamente todos los problemas de CSS que enfrente para lograr resultados SECOS, fáciles de mantener, flexibles, livianos y que cumplan con los estándares.
+Inspirada por sus populares charlas en más de 60 conferencias internacionales de desarrollo web, Lea Verou proporciona una gran cantidad de información.
+
+Fecha de publicacion: 11/04/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

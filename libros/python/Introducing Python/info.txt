@@ -1,0 +1,16 @@
+Lenguaje: python
+
+Titulo: Introducing Python
+
+Descripción:
+
+Fácil de entender y divertida de leer, esta edición actualizada de Introducing Python es ideal tanto para programadores principiantes como para aquellos que son nuevos en el lenguaje. El autor Bill Lubanovic lo lleva de lo básico a temas más variados y complejos, mezclando tutoriales con recetas de código estilo libro de cocina para explicar conceptos en Python 3. Los ejercicios de fin de capítulo lo ayudan a practicar lo que ha aprendido.
+Obtendrá una base sólida en el lenguaje, incluidas las mejores prácticas para probar, depurar, reutilizar código y otros consejos de desarrollo. Este libro también le muestra cómo usar Python para aplicaciones comerciales, científicas y artísticas, utilizando varias herramientas de Python y paquetes de código abierto.
+
+Fecha de publicacion: 08/09/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

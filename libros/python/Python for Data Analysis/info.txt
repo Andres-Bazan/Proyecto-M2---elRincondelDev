@@ -1,0 +1,16 @@
+Lenguaje: python
+
+Titulo: Python for Data Analysis
+
+Descripción:
+
+Obtenga instrucciones completas para manipular, procesar, limpiar y procesar conjuntos de datos en Python. Actualizada para Python 3.6, la segunda edición de esta guía práctica está repleta de casos prácticos que le muestran cómo resolver un amplio conjunto de problemas de análisis de datos de manera eficaz. Aprenderá las últimas versiones de pandas, NumPy, IPython y Jupiter en el proceso.
+Escrito por Wes McKinney, el creador del proyecto Python pandas, este libro es una introducción práctica y moderna a las herramientas de ciencia de datos en Python. Es ideal para analistas nuevos en Python y para programadores de Python nuevos en ciencia de datos y computación científica. Los archivos de datos y el material relacionado están disponibles en GitHub.
+
+Fecha de publicacion: 12/02/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

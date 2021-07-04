@@ -1,0 +1,17 @@
+Lenguaje: HTML5
+
+Titulo: Learning Web Design
+
+Descripción:
+
+¿Quieres crear páginas web pero no tienes experiencia previa? Esta amigable guía es el lugar perfecto para comenzar. Comenzará desde el punto de partida, aprenderá cómo funcionan la web y las páginas web, y luego irá construyendo a partir de ahí. Al final del libro, tendrá las habilidades para crear un sitio simple con páginas de varias columnas que se adapten a los dispositivos móviles.
+Cada capítulo proporciona ejercicios que le ayudarán a aprender varias técnicas y pruebas breves para asegurarse de que comprende los conceptos clave.
+Esta edición completamente revisada es ideal para estudiantes y profesionales de todos los orígenes y niveles de habilidad. Es lo suficientemente simple y claro para principiantes, pero lo suficientemente completo como para ser una referencia útil para desarrolladores experimentados que mantienen sus habilidades actualizadas.
+
+Fecha de publicacion: 29/04/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

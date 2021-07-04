@@ -1,0 +1,15 @@
+Lenguaje: JavaScript
+
+Titulo: Eloquent JavaScript
+
+Descripción:
+
+Esta tercera edición, muy anticipada y completamente revisada, de Eloquent JavaScript se sumerge profundamente en el lenguaje JavaScript para mostrarle cómo escribir código hermoso y efectivo. Se ha actualizado para reflejar el estado actual de Java¬Script y los navegadores web e incluye material completamente nuevo sobre características como notación de clases, funciones de flecha, iteradores, funciones asíncronas, cadenas de plantillas y alcance de bloque. También se han agregado una serie de nuevos ejercicios para poner a prueba sus habilidades y mantenerlo encaminado.
+
+Fecha de publicacion: 13/03/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

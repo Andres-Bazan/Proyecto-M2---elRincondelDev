@@ -1,0 +1,16 @@
+Lenguaje: CSS
+
+Titulo: CSS Pocket Reference
+
+Descripción:
+
+Cuando esté trabajando con CSS y necesite una respuesta ahora, esta referencia rápida concisa pero completa proporciona la información esencial que necesita. Revisada y actualizada para CSS3, esta quinta edición es ideal para diseñadores y desarrolladores web de nivel intermedio a avanzado.
+Encontrará una breve introducción a los conceptos clave de CSS y resúmenes alfabéticos de los selectores y propiedades de CSS. También descubrirá información sobre nuevas propiedades, incluidas cuadrícula, caja flexible, recorte, enmascaramiento y composición.
+
+Fecha de publicacion: 09/01/18
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

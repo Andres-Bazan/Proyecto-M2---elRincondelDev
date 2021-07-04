@@ -1,0 +1,16 @@
+Lenguaje: JavaScript
+
+Titulo: JavaScript and JQuery
+
+Descripción:
+
+Este libro a todo color le mostrará cómo hacer que sus sitios web sean más interactivos y sus interfaces más interesantes e intuitivas.
+Si está buscando crear experiencias web más enriquecedoras, este es el libro para usted.
+
+Fecha de publicacion: 03/07/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

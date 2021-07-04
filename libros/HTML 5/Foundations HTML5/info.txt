@@ -1,0 +1,15 @@
+Lenguaje: HTML5
+
+Titulo: Foundations HTML5
+
+Descripción:
+
+Fundamentos de diseño y desarrollo web con HTML5 presenta temas de HTML y CSS como configuración de texto, configuración de color y diseño de página, con un enfoque mejorado en los temas de diseño, accesibilidad y estándares web. El texto relaciona tanto las habilidades necesarias (como HTML5, CSS y JavaScript) como las habilidades blandas (diseño, comercio electrónico y estrategias de promoción) consideradas fundamentales para el desarrollo web contemporáneo. El énfasis en la práctica práctica proporciona una base sólida para ayudar a los lectores en su carrera como profesionales de la web. La novena edición actualizada y ampliada contiene cobertura actual de HTML5 y HTML5.1, cobertura ampliada de diseño para dispositivos móviles y más.
+
+Fecha de publicacion: 12/09/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

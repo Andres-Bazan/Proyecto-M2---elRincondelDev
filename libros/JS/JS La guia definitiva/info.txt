@@ -1,0 +1,15 @@
+Lenguaje: JavaScript
+
+Titulo: JS La guia definitiva
+
+Descripción:
+
+Este libro es para programadores que desean aprender JavaScript y para desarrolladores web que desean llevar su comprensión y dominio al siguiente nivel. Comienza explicando el lenguaje JavaScript en sí, en detalle, de abajo hacia arriba. Luego se basa en esa base para cubrir la plataforma web y Node.js.
+
+Fecha de publicacion: 11/02/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

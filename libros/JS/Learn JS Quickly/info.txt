@@ -1,0 +1,16 @@
+Lenguaje: JavaScript
+
+Titulo: Learn JS Quickly
+
+Descripción:
+
+¿Quiere desarrollar una habilidad que le asegure que nunca más se quede sin trabajo?
+Los desarrolladores y programadores se encuentran entre las profesiones mejor pagadas del mundo y, según la Oficina de Estadísticas Laborales de EE. UU., La cantidad de puestos de trabajo para desarrolladores de software y aplicaciones aumentará en un sorprendente 24% en los próximos años.
+
+Fecha de publicacion: 22/08/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

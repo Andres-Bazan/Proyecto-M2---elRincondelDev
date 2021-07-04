@@ -1,0 +1,15 @@
+Lenguaje: HTML5
+
+Titulo: Step-by-Step
+
+Descripción:
+
+HTML5 y CSS3 son herramientas importantes para crear sitios web receptivos con actualizaciones y funciones avanzadas. Para poder usarlos juntos, esta útil guía todo en uno cubre todo lo que necesita saber sobre cada una de estas innovaciones y sus versiones actualizadas. HTML es un lenguaje de marcado que se utiliza para la creación de páginas web. CSS es un lenguaje esencial para el diseño y el estilo de páginas web. Cubriremos ambos lenguajes en este libro desde cero, y usted creará su propio proyecto al final del libro. Varios libros que enseñan HTML y CSS son insípidos y recién publicados para aquellos que ya son programadores, y es por eso que este libro toma una Enfoque completamente nuevo. Este libro presenta HTML y CSS de una manera que lo hace fácil para todos: aficionados, principiantes, profesionales o cualquier persona común que quiera desarrollar su propio sitio web. Tiene una estructura completamente única que le permite avanzar de principio a fin a través de los capítulos o simplemente pasar por los temas de relevancia significativa en su tiempo libre.
+
+Fecha de publicacion: 12/06/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

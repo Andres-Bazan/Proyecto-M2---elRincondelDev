@@ -1,0 +1,16 @@
+Lenguaje: python
+
+Titulo: Expert Python
+
+Descripción:
+
+Python se utiliza en una amplia gama de dominios debido a su naturaleza simple pero poderosa. Aunque escribir código Python es fácil, hacerlo legible, reutilizable y fácil de mantener puede ser un desafío. Completa con las mejores prácticas, herramientas útiles y estándares implementados por desarrolladores profesionales de Python, esta cuarta edición lo ayudará no solo a superar tales desafíos, sino también a aprender las últimas funciones y conceptos avanzados de Python.
+El libro comienza con una preparación, donde se pondrá al día con las últimas mejoras de Python, elementos de sintaxis y herramientas interesantes para aumentar la eficiencia de su desarrollo. Además, los pocos capítulos iniciales deberían permitir a los programadores experimentados que provienen de diferentes lenguajes aterrizar de manera segura en el ecosistema de Python.
+
+Fecha de publicacion: 12/02/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

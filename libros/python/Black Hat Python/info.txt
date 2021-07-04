@@ -1,0 +1,16 @@
+Lenguaje: python
+
+Titulo: Black Hat Python
+
+Descripción:
+
+Cuando se trata de crear herramientas de piratería poderosas y efectivas, Python es el lenguaje elegido por la mayoría de los analistas de seguridad. En esta segunda edición del superventas Black Hat Python, explorarás el lado más oscuro de las capacidades de Python: todo, desde escribir rastreadores de red, robar credenciales de correo electrónico y forzar directorios hasta crear fuzzers de mutación, investigar máquinas virtuales y crear troyanos sigilosos.
+Todo el código de esta edición se ha actualizado a Python 3.x. También encontrará nueva cobertura de cambio de bits, higiene de código y análisis forense ofensivo con Volatility Framework, así como explicaciones ampliadas de las bibliotecas de Python ctypes, struct, lxml y BeautifulSoup, y estrategias de piratería ofensivas como dividir bytes, aprovechar la visión por computadora. bibliotecas y sitios web de scraping.
+
+Fecha de publicacion: 02/01/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

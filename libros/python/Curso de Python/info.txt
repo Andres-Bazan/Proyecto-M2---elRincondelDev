@@ -1,0 +1,16 @@
+Lenguaje: python
+
+Titulo: Curso de Python
+
+Descripción:
+
+Python Crash Course es la guía más vendida del mundo sobre el lenguaje de programación Python. Esta rápida y completa introducción a la programación con Python le permitirá escribir programas, resolver problemas y hacer cosas que funcionen en poco tiempo.
+En la primera mitad del libro, aprenderá conceptos básicos de programación, como variables, listas, clases y bucles, y practicará la escritura de código limpio con ejercicios para cada tema. También aprenderá cómo hacer que sus programas sean interactivos y probar su código de forma segura antes de agregarlo a un proyecto. En la segunda mitad, pondrá en práctica sus nuevos conocimientos con tres proyectos importantes: un juego de arcade inspirado en Space Invaders, un conjunto de visualizaciones de datos con las prácticas bibliotecas de Python y una aplicación web simple que puede implementar en línea.
+
+Fecha de publicacion: 06/03/18
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

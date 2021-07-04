@@ -1,0 +1,16 @@
+Lenguaje: python
+
+Titulo: Python for Excel
+
+Descripción:
+
+Si bien Excel sigue siendo omnipresente en el mundo empresarial, los foros de comentarios recientes de Microsoft están llenos de solicitudes para incluir Python como un lenguaje de programación de Excel. De hecho, es la característica principal solicitada. ¿Qué hace que esta combinación sea tan atractiva? En esta guía práctica, Felix Zumstein, creador de xlwings, un popular paquete de código abierto para automatizar Excel con Python, muestra a los usuarios experimentados de Excel cómo integrar estos dos mundos de manera eficiente.
+Excel ha agregado bastantes capacidades nuevas en los últimos años, pero su lenguaje de automatización, VBA, dejó de evolucionar hace mucho tiempo. Muchos usuarios avanzados de Excel ya han adoptado Python para las tareas de automatización diarias. Esta guía le ayuda a empezar.
+
+Fecha de publicacion: 12/06/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

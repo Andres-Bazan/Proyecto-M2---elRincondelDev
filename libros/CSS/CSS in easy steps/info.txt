@@ -1,0 +1,15 @@
+Lenguaje: CSS
+
+Titulo: CSS in easy steps
+
+Descripción:
+
+CSS en sencillos pasos, la cuarta edición tiene un estilo fácil de seguir que atraerá a cualquiera que quiera comenzar a crear páginas web con estilo. Comienza explicando cómo las hojas de estilo en cascada (CSS) pueden determinar la presentación de elementos dentro de los documentos HTML. Los ejemplos muestran cómo las reglas de la hoja de estilo pueden controlar la posición y la apariencia del contenido y proporcionar efectos dinámicos con animación, transformaciones y transiciones. También aprenderá a diseñar páginas web receptivas que se ven muy bien vistas en cualquier dispositivo. Cada capítulo desarrolla su conocimiento de las hojas de estilo. Al final de este libro, habrá adquirido un conocimiento sólido de CSS y podrá crear sus propias páginas web interactivas interesantes.
+
+Fecha de publicacion: 02/04/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

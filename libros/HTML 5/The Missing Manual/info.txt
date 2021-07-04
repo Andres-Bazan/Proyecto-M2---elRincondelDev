@@ -1,0 +1,15 @@
+Lenguaje: HTML5
+
+Titulo: The Missing Manual
+
+Descripción:
+
+HTML5 es más que un lenguaje de marcado: es una colección de varios estándares web independientes. Afortunadamente, esta guía ampliada cubre todo lo que necesita en un lugar conveniente. Con tutoriales paso a paso y ejemplos del mundo real, HTML5: The Missing Manual le muestra cómo crear aplicaciones web que incluyen herramientas de video, gráficos dinámicos, geolocalización, funciones fuera de línea y diseños receptivos para dispositivos móviles.
+
+Fecha de publicacion: 22/12/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

@@ -1,0 +1,16 @@
+Lenguaje: CSS
+
+Titulo: Modern CSS
+
+Descripción:
+
+Comenzará con los conceptos básicos de CSS: modelo de caja, colores, selectores y combinadores, y especificidad. Luego, avance gradualmente a través de temas más intermedios: estilo de texto, posicionamiento, índice Z y contextos de apilamiento, degradados, bordes y luego a temas más avanzados como transformaciones, transiciones, animaciones, flexbox y cuadrícula CSS. Algunas funciones solo están disponibles en los navegadores modernos (Chrome, Edge, Safari y Firefox), pero se incluye información sobre la compatibilidad con IE11 cuando es posible.
+Hay mucha discusión sobre lo difícil que es CSS y lo intimidadas que se sienten algunas personas, pero no tiene por qué ser así. El CSS moderno utiliza un enfoque lógico y comprensible para analizar y explicar claramente los entresijos de CSS.
+
+Fecha de publicacion: 16/02/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:
