@@ -48,6 +48,25 @@ body {
   margin-top: 0px;
 }
 
+#buscador-biblio{
+  padding-top: 25px;
+  padding: auto;
+}
+
+#btnBuscar{
+  padding-top: 8px;
+}
+
+
+.btn:hover{
+   background-color: var(--color1); 
+   transition-duration: 0.3s;
+}
+
+.col-auto{
+  padding-top: 28px;
+
+}
 .form-control-borderless {
   border: none;
 }
@@ -55,31 +74,21 @@ body {
 .form-control-borderless:hover,
 .form-control-borderless:active,
 .form-control-borderless:focus {
+  transition-duration: 0.5s ;
   border: none;
   outline: none;
   box-shadow: none;
 }
 
-.card-img-1{
-    width: 80px;
-    height: 80px;
+.card-img{
+    /* width: 80px;
+    height: 80px; */
+    width: 40%;
+    height: 40%;
     object-fit: cover;
 }
 
-.card-img-2{
-  width: 70px;
-  height: 65px;
-}
 
-.card-img-3{
-  width: 80px;
-    height: 80px;
-}
-
-.card-img-4{
-  width: 80px;
-    height: 80px;
-}
 
 .img-fluid {
   width: 70px;
@@ -99,6 +108,10 @@ body {
 .card-biblio {
   width: 210px;
   height: 210px;
+}
+
+.modal-title{
+  color: var(--color1);
 }
 
 
@@ -175,6 +188,12 @@ body{
 
 /* ------------- CARDS INICIO ---------- */
 
+
+
+.titulo-mj{
+  color: var(--color1);
+}
+
 #cards-style{
   padding-top: 2rem;
 }
@@ -244,10 +263,28 @@ footer {
   background-color:var(--color3)
 } 
 
+
 #logo-footer {
   width: 252px;
   height: 77px;
 } 
+
+.text-center {
+  justify-content:center;
+  text-decoration: none;
+  color: var(--color2);
+}
+
+#priv-footer {
+  text-decoration: none;
+}
+
+.row2{
+  padding-left: 50px;
+}
+#info-contac{
+  
+}
 
 
 

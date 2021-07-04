@@ -1,5 +1,6 @@
 //Traigo de localStorage los datos si los hay
 let catalogo = JSON.parse(localStorage.getItem("catalogo")) || [];
+let lengua = {}
 
 //Capturo cada elemento del formulario de registro
 let lenguaje = document.querySelector("#lenguajeText");
@@ -69,16 +70,16 @@ function udpateLibros(){
 
 cuerpotabla = document.querySelector('#cuerpotabla') || '';
 //Cargo los datos a la tabla y creo la tabla desde el js
-function verLibro() {
+function verLibro(cata) {
   cuerpotabla.innerHTML = "";
-    catalogo = JSON.parse(localStorage.getItem("catalogo")) || [];
-    catalogo.forEach(function (portada, index) {
+    catalogo = JSON.parse(localStorage.getItem("catalogo")) ;
+    cata.forEach(function (portada, index) {
       let fila = document.createElement("div");
       fila.classList ="row mb-5"
       let datos = `
                   
                     
-                    <div class="col-md-3">
+                    <div class="col-md-3 ">
                       <img src="${portada.imagen}" class="img-biblio" alt="img card 1">
                     </div>
                     <!-- Titulo y reseña -->
@@ -91,15 +92,15 @@ function verLibro() {
                     <div class="col-md-3">
                       <div class="card" style="width: 15rem;">
                         <div class="card-body">
-                          <h5 class="card-title">Card title</h5>
+                          <h5 class="card-title mt-3">Card title</h5>
                           <h6 class="card-subtitle mb-2 text-muted"> <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF</h6>
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                          <a href="#" class="card-link"><button class="btn btn-info btn-block" onclick="">Alquilar</button></a>
+                          <a href="#" class="card-link"><button class="btn btn-info btn-block" data-toggle="modal" data-target="#exampleModal" onclick="">Alquilar</button></a>
                         </div>
-                        
                       </div>
-                      
+                     
                     </div>
+                    
                  
 
 
@@ -114,18 +115,38 @@ function verLibro() {
   }
 
  
-    verLibro()
+    
   //----------------------------------------
 
   //-------------- BUSCADOR -------------
   
-  function buscarLibro() {
+  function buscarLibro() {   
     let texto = document.querySelector('#buscador-biblio');
-    catalogo = JSON.parse(localStorage.getItem('catalogo'))
-    catalogo = catalogo.filter(function (elemento) {
-      return elemento.titulo.indexOf(texto) > -1;
-    })
-    verLibro(catalogo)
+
+    lengua = JSON.parse(localStorage.getItem('catalogo'));
+    lengua = lengua.filter(function (elemento) {
+      return elemento.titulo.indexOf(texto.value) > -1;
+    });
+    console.log(lengua)
+    verLibro(lengua)
+  }
+ 
+  if (verLibro) {
+    buscarLibro(catalogo)
+  }
+
+
+  //Mostrar la descripcion en los modales ------------------------
+
+  function verModal(id){
+
+    console.log(id);
+    lengua = catalogo[id];
+    document.querySelector('#infoModal').innerText = lengua.descripcion;
+  }
+
+  if (verModal) {
+    verModal(catalogo)
   }
 
 
