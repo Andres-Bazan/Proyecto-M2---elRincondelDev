@@ -17,6 +17,7 @@
     <link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="shortcut icon" href="/img/icon.png">
+    <script src="select2.js"></script>
 
     <link rel="stylesheet" href="./style.css">
     <title>elRinconDelDev</title>
@@ -62,7 +63,7 @@
 
     <main>
       <div class="container">
-        <div class="col-12 col-md-10 col-lg-12 mb-5">
+        <div class="col-12 col-md-10 col-lg-12  mb-5 ">
           <form class="card card-sm" id="form_search">
             <div class="card-body row no-gutters align-items-center">
               <!--end of col-->
@@ -71,14 +72,14 @@
               </div>
               <!--end of col-->
               <div class="col-auto">
-                <button class="btn btn-lg btn-outline-secondary" id="btnBuscar" onclick="buscarLibro()" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                <button class="btn btn-lg btn " id="btnBuscar" onclick="buscarLibro()" type="button"><i class="fa fa-search" aria-hidden="true"></i></button>
               </div>
               <!--end of col-->
             </div>
           </form>
         </div>
         <div class="container" id="cuerpotabla">
-    
+          
         </div>
       </div>
       
@@ -86,6 +87,7 @@
       
     </main>
 
+  
     
 
     
@@ -149,6 +151,34 @@
         </div>
       </div>
     </footer>
+
+    <!-- Modal -->
+<div class="modal fade " id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content bg-dark">
+      <div class="modal-header">
+        <h4 class="modal-title" id="exampleModalLabel">Mas Informacion</h4>
+        <!-- <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button> -->
+      </div>
+      <div class="modal-body">
+        <div class="container">
+          <div class="card bg-dark">
+            <div class="card-body text-light">
+              <p class="card-text mt-4">
+                <strong id="infoModal"></strong>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn" data-dismiss="modal"><span class="text-white">Cerrar</span></button>
+      </div>
+    </div>
+  </div>
+</div>
   
 
 
