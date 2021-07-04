@@ -14,87 +14,85 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="shortcut icon" href="/img/icon.png">
 
-    
     <link rel="stylesheet" href="./style.css">
-    <title>Hello, world!</title>
+    <title>elRinconDelDev</title>
   </head>
   <body>
     <header>
-      <nav class="navbar navbar-expand-lg navbar-light" id="navbar-color">
-        <div class="collapse navbar-collapse animate__animated animate__fadeIn" id="navbarSupportedContent">
-          <a class="navbar-brand text-white" href="./login.html"><i class="fa fa-user-circle" aria-hidden="true"></i></a>
-          <a class="navbar-brand text-white" href="./biblio.html"><i class="fa fa-search" aria-hidden="true"></i></a>
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link text-white" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-white" href="#">Biblioteca</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-white" href="#">Contacto</a>
-            </li><li class="nav-item">
-              <a class="nav-link text-white" href="#">Admin</a>
-            </li>
-          </ul>
-        </div>
-        <a class="navbar-brand" href="#"><img src="./img/icon.png" width="45px" alt="icono de la pagina"></a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      </nav>
-</header>
-    
-    <section>
-        <div class="container text-white mt-5">
-            <div class="row">
-              <div class="col col-md-8 offset-md-2">
-                <h1>Administración</h1>
-                <hr />
-              </div>
+           <nav class="navbar navbar-expand-lg navbar-light" id="navbar-color">
+            <div class="collapse navbar-collapse animate__animated animate__fadeIn" id="navbarSupportedContent">
+              <a class="navbar-brand text-white" href="./login.html"><i class="fa fa-user-circle" aria-hidden="true"></i></a>
+              <ul class="navbar-nav mr-auto">
+                <a class="navbar-brand text-white" href="./biblio.html"><i class="fa fa-search" aria-hidden="true"></i></a>
+                <li class="nav-item active">
+                  <a class="nav-link text-white" href="./home.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-white" href="./biblio.html">Biblioteca</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link text-white" href="./contacto.html">Contacto</a>
+                </li><li class="nav-item">
+                  <a class="nav-link text-white" href="./admin.html">Admin</a>
+                </li>
+              </ul>
             </div>
-          </div>
-          <div class="container">
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-              <hr>
-          </div>
-    </section>
+            <a class="navbar-brand" href="#"><img src="./img/icon.png" width="45px" alt="icono de la pagina"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          </nav>
+           <!--Navbar-->
+    
+   
+
+
+    </header>
+
+    <div class="espacios">
+      <br>
+      <br>
+      <br>
+      <br>
+    </div>
+
+    <main>
+      <div class="container">
+        <div class="col-12 col-md-10 col-lg-12 mb-5">
+          <form class="card card-sm" id="form_search">
+            <div class="card-body row no-gutters align-items-center">
+              <!--end of col-->
+              <div class="col">
+                <input class="form-control form-control-lg form-control-borderless" id="buscador-biblio" type="search" id="id_search" placeholder="Buscar">
+              </div>
+              <!--end of col-->
+              <div class="col-auto">
+                <button class="btn btn-lg btn-outline-secondary" id="btnBuscar" onclick="buscarLibro()" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+              </div>
+              <!--end of col-->
+            </div>
+          </form>
+        </div>
+        <div class="container" id="cuerpotabla">
+    
+        </div>
+      </div>
+      
+
+      
+    </main>
+
     
 
+    
+  
+        
     <!-- SECCION FOOTER-->
-    <footer>
+     <footer>
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4 mt-4  text-center">
@@ -143,7 +141,7 @@
           <div class="col-6 text-center">
             <p>elRinconDelDev® 2021 | Todos los Derechos Reservados | Grupo 4</p>
           </div>
-          <div class="col-6 text-center">
+          <div class="col-6 text-center href-style">
             <a href="#">Política de Privacidad |</a>
             <a href="#">Aviso Legal |</a>
             <a href="#">Terminos y Condiciones</a>
@@ -151,7 +149,7 @@
         </div>
       </div>
     </footer>
-
+  
 
 
    
@@ -164,6 +162,8 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
     <script src="https://use.fontawesome.com/a79dcfd0b0.js%22%3E"></script>
-    <script src="./js/admin.js"></script>
+    <script src="./js/registro.js"></script>
+    
+   
   </body>
 </html>

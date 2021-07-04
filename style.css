@@ -13,6 +13,7 @@
   list-style: none;
   box-sizing: border-box;
   border: none;
+  
 }
 body {
   background-color: var(--color2);
@@ -60,26 +61,31 @@ body {
 
 /* ------------ INICIO NAV BAR ----------- */
 
-.logo-nav {
-  padding-top: 5px;
-  padding-right: 150px;
-  color: var(--color4);
-}
-
 .navbar-brand {
   padding-left: 10px;
   padding-right: 10px;
 }
 
+.img-fluid{
+  width: 200px;
+  height: 300px;
+}
+
 #navbar-color {
+  font-size: 19px;
   background-color: var(--color1);
 }
+/* 
+.navbar-light .navbar-toggler {
+  background-color: white;
+} */
+
 
 /* ------------ FIN NAV BAR ----------- */
 
 /* ------------- SECCION BUSCAR ---------- */
 #boton-buscar{
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .form-control-borderless {
@@ -94,9 +100,45 @@ body {
   box-shadow: none;
 }
 
-.card-img{
+.card-img-1{
     width: 80px;
     height: 80px;
+    object-fit: cover;
+}
+
+.card-img-2{
+  width: 70px;
+  height: 65px;
+}
+
+.card-img-3{
+  width: 80px;
+    height: 80px;
+}
+
+.card-img-4{
+  width: 80px;
+    height: 80px;
+}
+
+.img-fluid {
+  width: 70px;
+  height: 60px;
+}
+
+.img-login{
+  width: 300px;
+  margin-bottom: 5px;
+}
+
+.img-biblio{
+  width: 210px;
+  height: 210px;
+}
+
+.card-biblio {
+  width: 210px;
+  height: 210px;
 }
 
 
@@ -104,11 +146,72 @@ body {
 
 /*----------- INICIO CONTACTO ----------------*/
 
+
 /*----------- FIN CONTACTO ----------------*/
 
-/* ---------  INICIO FOOTER ------------- */
-/**-------- FIN FOOTER ...................../
+/* -------------- caruseles INICIO ------------------- */
+.horizontal_slider{
+  display:block;
+  /* align-items: center; */
+  justify-content:center;
+  width:100%;
+  overflow-x: scroll;
+  padding-top: 1rem;
+  padding-bottom: 10rem;
+  box-sizing: border-box;
+  padding-left: auto;
+  padding-right: auto;
+}
+.horizontal_slider::-webkit-scrollbar{
+  display: none;
+}
+.slider_container{
+  display:block;
+  white-space:nowrap;
+}
+.item{
+  display: inline-block;
+  margin-right: 10px;
+}
+.item_valorados{
+  display: inline-block ;
+  justify-content:space-evenly;
+  width:150px;
+  height: 150px;
+  object-fit: cover;
+}
 
+.item img{
+  width:150px;
+  object-fit: cover;
+}
+body{
+  background-color:rgb(59, 59, 63)
+}
+/* -------------- caruseles FIN ------------------- */
+
+/* -------------- caruseles Publicidad INICIO------------------- */
+
+#carruselS{
+  visibility: hidden;
+  position: absolute;
+   top: -9999px;
+   left: -9999px;
+
+}
+@media screen and (max-width:650px){
+  #carruselS{
+  visibility: visible;
+  position:initial;
+  }
+  #carruselL{
+    visibility: hidden;
+    position: absolute;
+   top: -9999px;
+   left: -9999px;
+    }
+}
+/* -------------- caruseles Publicidad FIN------------------- */
 
 /* ------------- CARDS INICIO ---------- */
 
@@ -234,3 +337,47 @@ body{
     }
 }
 /* -------------- caruseles Publicidad FIN------------------- */
+/* ---------- FIN CARDS FINAL ---------------- */
+
+/* ----------- INICIO SOBRE NOSOTROS --------- */
+
+
+/* ----------- INICIO SOBRE NOSOTROS --------- */
+
+
+/* ---------- INICIO BILBIO ---------------- */
+
+  
+
+
+
+/* ---------- FIN INICIO BILBIO ---------------- */
+
+/* ---------  INICIO FOOTER ------------- */
+ footer {
+  background-color:var(--color3)
+} 
+
+#logo-footer {
+  width: 252px;
+  height: 77px;
+} 
+
+
+
+/**-------- FIN FOOTER ...................../
+
+/* -------------- 404 ------------------- */
+#i404{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25vh;
+  margin-bottom: 15vh;
+  max-width: 20rem;
+}
+.volver{
+  color: var(--color1);
+  text-align: center;
+  text-decoration: none;
+}
