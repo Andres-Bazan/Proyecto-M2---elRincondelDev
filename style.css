@@ -19,6 +19,49 @@ body {
   background-color: var(--color2);
 }
 
+/* ------------ LOADER INICIO ------------ */
+
+#loader{
+  height: 100%;
+  width: 100%;
+  background: #2A2C33;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  z-index:1;
+  animation: fadeOut 0.5s forwards;
+  animation-delay: 2.5s;
+  
+}
+@keyframes fadeOut {
+  from{
+    opacity:1;
+  }
+  to{
+    opacity:0;
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+}
+#loader img{
+  position: absolute;
+  top: 45%;
+  left: 37%;
+  width: 25%;
+}
+@media screen and (max-width:650px){
+  #loader img{
+    width: 70%;
+    left: 16%;
+  }
+}
+
+
+/* ------------ LOADER FIN ------------ */
+
+
+
 /* ------------ INICIO NAV BAR ----------- */
 
 .navbar-brand {
@@ -79,14 +122,11 @@ body {
   outline: none;
   box-shadow: none;
 }
-
-.card-img{
-    /* width: 80px;
-    height: 80px; */
-    width: 40%;
-    height: 40%;
-    object-fit: cover;
-}
+/* .img-file-free{ */
+    /* width: 40%; */
+    /* height: 40%; */
+    /* object-fit: cover; */
+/* } */
 
 
 
@@ -230,10 +270,9 @@ body{
     padding-bottom: 0rem;}}
   
 
-
 /* ------------- CARDSFINAL ---------- */
 
-footer {
+ footer {
   background-color: rgb(122, 132, 141);
 } 
 
@@ -241,7 +280,82 @@ footer {
   width: 252px;
   height: 77;
 } 
+/* -------------- 404 ------------------- */
+#i404{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25vh;
+  margin-bottom: 15vh;
+  max-width: 20rem;
+}
+.volver{
+  color: var(--color1);
+  text-align: center;
+  text-decoration: none;
+}
+/* -------------- caruseles INICIO ------------------- */
+.horizontal_slider{
+  display:block;
+  /* align-items: center; */
+  justify-content:center;
+  width:100%;
+  overflow-x: scroll;
+  padding-top: 1rem;
+  padding-bottom: 10rem;
+  box-sizing: border-box;
+  padding-left: auto;
+  padding-right: auto;
+}
+.horizontal_slider::-webkit-scrollbar{
+  display: none;
+}
+.slider_container{
+  display:block;
+  white-space:nowrap;
+}
+.item{
+  display: inline-block;
+  margin-right: 10px;
+}
+.item_valorados{
+  display: inline-block ;
+  justify-content:space-evenly;
+  width:150px;
+  height: 150px;
+  object-fit: cover;
+}
 
+.item img{
+  width:150px;
+  object-fit: cover;
+}
+body{
+  background-color:rgb(59, 59, 63)
+}
+/* -------------- caruseles FIN ------------------- */
+/* -------------- caruseles Publicidad INICIO------------------- */
+
+#carruselS{
+  visibility: hidden;
+  position: absolute;
+   top: -9999px;
+   left: -9999px;
+
+}
+@media screen and (max-width:650px){
+  #carruselS{
+  visibility: visible;
+  position:initial;
+  }
+  #carruselL{
+    visibility: hidden;
+    position: absolute;
+   top: -9999px;
+   left: -9999px;
+    }
+}
+/* -------------- caruseles Publicidad FIN------------------- */
 /* ---------- FIN CARDS FINAL ---------------- */
 
 /* ----------- INICIO SOBRE NOSOTROS --------- */
@@ -282,10 +396,22 @@ footer {
 .row2{
   padding-left: 50px;
 }
-#info-contac{
+/* #info-contac{ */
+/*    */
+/* } */
+.container-fluid{
+  margin-top: 1rem;
+}
+footer{
+  bottom: 0%;
+  width:100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  }
+.contenidoPagina{
+  min-height: calc(97vh - 71px - 252px);
   
 }
-
 
 
 /**-------- FIN FOOTER ...................../
@@ -303,4 +429,23 @@ footer {
   color: var(--color1);
   text-align: center;
   text-decoration: none;
+}
+
+/*-----------textos free----------*/
+
+.img-file-free{
+  padding-left: 15px;
+  padding-top: 7px;
+  width: 4rem;
+}
+#texto-file-free{
+  padding-left: 0px;
+  margin-bottom: 6px;
+  left: 20px;
+}
+#descarga-file-free-color{
+  color: var(--color3);
+}
+#descarga-file-free{
+  padding-top: 15px;
 }

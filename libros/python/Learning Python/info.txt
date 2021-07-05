@@ -1,0 +1,16 @@
+Lenguaje: python
+
+Titulo: Learning Python
+
+Descripción:
+
+Obtenga una introducción completa y detallada al lenguaje central de Python con este libro práctico. Esta quinta edición actualizada, basada en el popular curso de capacitación del autor Mark Lutz, lo ayudará a escribir rápidamente código eficiente y de alta calidad con Python. Es una forma ideal de comenzar, ya sea que sea nuevo en programación o un desarrollador profesional versado en otros idiomas.
+Completo con cuestionarios, ejercicios e ilustraciones útiles, este tutorial fácil de seguir y a su propio ritmo le permite comenzar con Python 2.7 y 3.3, las últimas versiones en las líneas 3.X y 2.X, además de todas las demás versiones en uso común en la actualidad. También aprenderá algunas funciones avanzadas del lenguaje que recientemente se han vuelto más comunes en el código Python.
+
+Fecha de publicacion: 02/11/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

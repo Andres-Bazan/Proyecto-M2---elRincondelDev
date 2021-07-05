@@ -1,0 +1,15 @@
+Lenguaje: python
+
+Titulo: Python All-in-One
+
+Descripción:
+
+Potente y flexible, Python es uno de los lenguajes de programación más populares del mundo. Tiene todo lo necesario para el software que impulsa la vanguardia del mundo del desarrollo: aprendizaje automático, robótica, inteligencia artificial, ciencia de datos, etc. La buena noticia es que también es bastante sencillo de aprender, con una sintaxis simplificada, natural - flujo de lenguaje y una comunidad de usuarios increíblemente solidaria. La última edición de Python All-in-One For Dummies le brinda una visión interna de las emocionantes posibilidades que ofrece el mundo de Python y proporciona un trampolín para lanzarse a donde quiera que lo lleve su carrera de codificación.
+
+Fecha de publicacion: 11/08/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

@@ -1,0 +1,18 @@
+Lenguaje: python
+
+Titulo: Python Basics
+
+Descripción:
+
+Dé el salto de principiante a intermedio en Python ...
+Conceptos básicos de Python: una introducción práctica a Python 3
+Su plan de estudios completo de Python: con ejercicios, cuestionarios interactivos y proyectos de muestra
+¿Qué debería aprender sobre Python al principio para tener una base sólida? Con Python Basics, no solo cubrirá los conceptos básicos que realmente necesita saber, sino que también los aprenderá en el orden más eficiente con la ayuda de ejercicios prácticos y cuestionarios interactivos. ¡Sabrás lo suficiente para ser peligroso con Python, rápido!
+
+Fecha de publicacion: 02/04/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

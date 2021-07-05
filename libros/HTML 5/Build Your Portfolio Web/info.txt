@@ -1,0 +1,18 @@
+Lenguaje: HTML5
+
+Titulo: Build Your Portfolio Web
+
+Descripción:
+
+Este libro está diseñado principalmente para su uso en el aula, aunque puede usarse, y se usa con frecuencia, para el aprendizaje a su propio ritmo. En mis aulas universitarias, se trata de dos clases de 5 créditos, o 22 jornadas de seis horas de trabajo estudiantil.
+Como instructor, me gusta trabajar cada paso numerado con mis estudiantes, deteniéndome con frecuencia para ilustrar los principales directores en la pizarra y ayudar a los estudiantes que se han retrasado. Los estudiantes que trabajan más rápido pueden usar el libro para avanzar. Todos los pasos están ahí, no falta nada.
+La estructura del libro me permite trabajar de forma secuencial día a día. Por ejemplo:
+"Ok clase, paramos la semana pasada en la página 34, paso seis. Empecemos desde allí".
+
+Fecha de publicacion: 12/05/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

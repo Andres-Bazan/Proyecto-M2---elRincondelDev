@@ -1,0 +1,16 @@
+Lenguaje: CSS
+
+Titulo: CSS in Depth
+
+Descripción:
+
+CSS in Depth te expone a un mundo de técnicas CSS que van desde las más inteligentes hasta las alucinantes. Este libro de utilidad instantánea está repleto de ejemplos creativos y prácticas recomendadas eficaces que agudizarán sus habilidades técnicas e inspirarán su sentido del diseño.
+CSS in Depth te expone a un mundo de técnicas CSS que van desde las más inteligentes hasta las alucinantes. Este libro de utilidad instantánea está repleto de ejemplos creativos y prácticas recomendadas eficaces que agudizarán sus habilidades técnicas e inspirarán su sentido del diseño. Obtendrá nuevos conocimientos sobre características familiares como flotadores y unidades, y experimentará con ideas emergentes como el diseño receptivo y las bibliotecas de patrones. En pocas palabras: ¡este libro lo convertirá en un mejor diseñador web y sus aplicaciones se verán fantásticas!
+
+Fecha de publicacion: 02/04/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

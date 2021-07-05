@@ -1,0 +1,15 @@
+Lenguaje: JavaScript
+
+Titulo: Get Started JS
+
+Descripción:
+
+Parece que nunca antes había habido un deseo tan generalizado de una mejor manera de aprender profundamente los fundamentos de JavaScript. Pero con un millón de blogs, libros y videos, ¿por dónde EMPEZAR? ¡No busques más! La serie de libros "You Don't Know JS" más vendida en todo el mundo está de vuelta para una segunda edición: "You Don't Know JS Yet". Los 6 libros son completamente nuevos, reescritos para cubrir todos los lados de JS para 2020 y más allá. 
+
+Fecha de publicacion: 22/12/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

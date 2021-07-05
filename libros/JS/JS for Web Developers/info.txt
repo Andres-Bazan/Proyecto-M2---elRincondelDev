@@ -1,0 +1,15 @@
+Lenguaje: JavaScript
+
+Titulo: JS for Web Developers
+
+Descripción:
+
+El JavaScript profesional para desarrolladores web es la guía esencial para el desarrollo de JavaScript de siguiente nivel. Con 1200 páginas, este libro es la referencia de JavaScript más completa disponible en cualquier lugar. Escrito para programadores de nivel intermedio a avanzado, este libro incluye los detalles técnicos para ayudarlo a limpiar su código y convertirse en un desarrollador de JavaScript más sofisticado.
+
+Fecha de publicacion: 12/11/20
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

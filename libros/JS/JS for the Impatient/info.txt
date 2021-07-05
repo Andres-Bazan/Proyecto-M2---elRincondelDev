@@ -1,0 +1,15 @@
+Lenguaje: JavaScript
+
+Titulo: JS for the Impatient
+
+Descripción:
+
+El autor de programación más vendido Cay S. Horstmann cubre todo lo que necesita saber, provisto en pequeños fragmentos organizados para un acceso rápido y fácil comprensión. Los conocimientos prácticos y el código de muestra de Horstmann lo ayudan a aprovechar todas las novedades, evitar problemas comunes y características obsoletas, y aprovechar al máximo las sólidas cadenas de herramientas y marcos de JavaScript modernos.
+
+Fecha de publicacion: 04/05/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

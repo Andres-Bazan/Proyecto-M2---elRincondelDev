@@ -1,0 +1,16 @@
+Lenguaje: CSS
+
+Titulo: CSS Mastery
+
+Descripción:
+
+Dominio de CSS: Soluciones de estándares web avanzados es su guía indispensable para el desarrollo de CSS de vanguardia: este libro desmitifica los secretos de CSS. Si bien CSS es una tecnología relativamente simple de aprender, es difícil de dominar. Cuando empiece a desarrollar sitios usando CSS, se encontrará con todo tipo de errores e inconsistencias del navegador enfurecedores. A veces parece que hay un millón de técnicas diferentes que dominar, repartidas en una desconcertante variedad de sitios web. La gama de posibilidades parece infinita y lo convierte en una curva de aprendizaje empinada y abrumadora.
+Si bien la mayoría de los libros se concentran en las habilidades básicas, este es diferente, asumiendo que ya conoce los conceptos básicos y por qué debería usar CSS en su trabajo, y concentrándose principalmente en técnicas avanzadas. Esta nueva edición cubre todos los fundamentos de CSS, como la importancia de un marcado significativo, cómo estructurar y mantener su código y cómo funciona realmente el modelo de diseño de CSS.
+
+Fecha de publicacion: 02/04/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

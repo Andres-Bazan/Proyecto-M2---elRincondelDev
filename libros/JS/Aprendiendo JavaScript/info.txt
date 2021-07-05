@@ -1,0 +1,15 @@
+Lenguaje: JavaScript
+
+Titulo: Aprendiendo JavaScript
+
+Descripción:
+
+Aprende las bases del lenguaje web más demandado. Desde cero hasta ECMAScript 6+. Partiendo de las bases y poco a poco ampliándose hasta ver las nuevas características del lenguaje para hacer un uso profesional de él.
+
+Fecha de publicacion: 01/02/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

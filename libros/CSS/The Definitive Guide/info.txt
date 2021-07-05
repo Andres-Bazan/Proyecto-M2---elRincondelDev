@@ -1,0 +1,16 @@
+Lenguaje: CSS
+
+Titulo: The Definitive Guide
+
+Descripción:
+
+Si es diseñador web o desarrollador de aplicaciones y le interesa el estilo de página sofisticado, la accesibilidad mejorada y el ahorro de tiempo y esfuerzo, este libro es para usted. Esta edición revisada proporciona una guía completa para la implementación de CSS, junto con una revisión exhaustiva de las últimas especificaciones de CSS.
+CSS es un lenguaje en constante evolución para describir la presentación de contenido web en pantalla, impresoras, sintetizadores de voz, lectores de pantalla y ventanas de chat. Es utilizado por todos los navegadores en todos los tamaños de pantalla en todo tipo de dispositivos de IoT, incluidos teléfonos, computadoras, videojuegos, televisores, relojes, quioscos y consolas automáticas. Los autores Eric Meyer y Estelle Weyl le muestran cómo mejorar la experiencia del usuario, acelerar el desarrollo, evitar errores potenciales y agregar vida y profundidad a sus aplicaciones a través de diseño, transiciones y animaciones, bordes, fondos, propiedades del texto y muchas otras herramientas y técnicas.
+
+Fecha de publicacion: 12/12/18
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

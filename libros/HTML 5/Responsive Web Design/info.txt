@@ -1,0 +1,16 @@
+Lenguaje: HTML5
+
+Titulo: Responsive Web Design
+
+Descripción:
+
+Diseño web receptivo con HTML5 y CSS, Tercera edición es una versión renovada y extendida de uno de los libros más completos y vendidos sobre las últimas herramientas y técnicas HTML5 y CSS para el diseño web receptivo.
+Escrita con el estilo informal y amigable característico del autor, esta edición cubre todos los desarrollos y mejoras más recientes en el diseño web receptivo, incluida una mejor accesibilidad para el usuario, fuentes variables y carga de fuentes, CSS Scroll Snap y mucho, mucho más. Con un nuevo capítulo dedicado a CSS Grid, comprenderá en qué se diferencia del mecanismo de diseño de Flexbox y cuándo debe usar uno sobre el otro.
+
+Fecha de publicacion: 13/03/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

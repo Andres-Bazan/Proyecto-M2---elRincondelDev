@@ -1,0 +1,16 @@
+Lenguaje: python
+
+Titulo: Automate the Boring Stuff with Python
+
+Descripción:
+
+Si alguna vez ha pasado horas cambiando el nombre de los archivos o actualizando cientos de celdas de hojas de cálculo, sabe lo tediosas que pueden ser tareas como estas. Pero, ¿y si pudieras hacer que tu computadora las hiciera por ti?
+En esta segunda edición completamente revisada del clásico éxito de ventas Automate the Boring Stuff with Python, aprenderá a usar Python para escribir programas que hacen en minutos lo que le llevaría horas hacer a mano, sin necesidad de experiencia previa en programación. . Aprenderá los conceptos básicos de Python y explorará la rica biblioteca de módulos de Python para realizar tareas específicas, como extraer datos de sitios web, leer documentos PDF y Word, y automatizar las tareas de escritura y clic.
+
+Fecha de publicacion: 02/09/19
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

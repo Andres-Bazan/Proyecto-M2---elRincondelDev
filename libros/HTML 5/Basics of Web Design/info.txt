@@ -1,0 +1,16 @@
+Lenguaje: HTML5
+
+Titulo: Basics of Web Design
+
+Descripción:
+
+Proporcionar una base sólida para el diseño y el desarrollo web.
+Conceptos básicos del diseño web: HTML5, es una introducción fundamental a los inicios del diseño web y el desarrollo web. El texto proporciona un equilibrio de habilidades “duras” como HTML 5, CSS y habilidades “blandas” como diseño web y publicación en la web, lo que brinda a los estudiantes una base sólida mientras siguen carreras como profesionales de la web. Los estudiantes terminarán un curso de introducción al diseño con las herramientas que necesitan para desarrollar sus habilidades en los campos de diseño web, gráficos web y desarrollo web.
+
+Fecha de publicacion: 02/04/21
+
+Cantidad de licencias: 
+
+3
+
+Imagen:

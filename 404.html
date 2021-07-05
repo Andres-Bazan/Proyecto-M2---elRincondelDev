@@ -52,7 +52,34 @@
     <a href="/home.html"><p class="volver">Volver al inicio</p></a>
     
   </div>
-    
+    <script>
+      localStorage.clear();
+      let usuarios = [
+        {
+          id: 1,
+          email: "bazan@gmail.com",
+          password: "2684",
+          nombre: "Andres Bazan",
+          area: "Sistemas",
+          imagen:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_gSfpMjPSlwoECBbnZFHOazzVlL6GaiQXyg&usqp=CAU",
+        },
+        {
+          id: 2,
+          email: "admin@gmail.com",
+          password: "2684",
+          nombre: "Admin",
+          area: "Administración",
+          imagen:
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYMa62z19XfXnODX6-HD_08TAO_Dj0USyRoh8ewedittk8iNv4P_rdMS4wQs3IdWRTDnM&usqp=CAU",
+        },
+      ];
+      localStorage.setItem("usuarios", JSON.stringify(usuarios));
+
+      // setTimeout(function () {
+      //   location.replace("/login.html");
+      // }, 2000);
+    </script>
   <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" 
   integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" 
